@@ -1,0 +1,12 @@
+{
+  "name": "DIGIPOT",
+  "short_name": "DIGIPOT",
+  "description": "Offline-first digital property document preparation and signing",
+  "lang": "hr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7f6",
+  "theme_color": "#32bcad"
+}
